@@ -4,7 +4,7 @@
     "cwd": "./",
     "deterministicOrder": true,
     "display": true,
-    "dist": "dist/portfolio.json",
+    "dist": "public/portfolio.json",
     "filePattern": "**/*.md",
     "ignore": "",
     "port": 3001,

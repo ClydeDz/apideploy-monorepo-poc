@@ -4,7 +4,7 @@
     "cwd": "./",
     "deterministicOrder": true,
     "display": true,
-    "dist": "dist/pinned.json",
+    "dist": "public/pinned.json",
     "filePattern": "**/*.pin.md",
     "ignore": "",
     "port": 3001,

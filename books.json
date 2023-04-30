@@ -4,7 +4,7 @@
     "cwd": "./",
     "deterministicOrder": true,
     "display": true,
-    "dist": "dist/books.json",
+    "dist": "public/books.json",
     "filePattern": "**/*.md",
     "ignore": "",
     "port": 3001,

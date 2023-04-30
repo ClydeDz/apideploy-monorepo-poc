@@ -4,7 +4,7 @@
     "cwd": "./",
     "deterministicOrder": true,
     "display": true,
-    "dist": "dist/teaching.json",
+    "dist": "public/teaching.json",
     "filePattern": "**/*.md",
     "ignore": "",
     "port": 3001,
