@@ -1,0 +1,51 @@
+{
+  "app": {
+    "config": "./settings/highlights.json",
+    "cwd": "./",
+    "deterministicOrder": true,
+    "display": true,
+    "dist": "dist/highlights.json",
+    "filePattern": "**/*.md",
+    "ignore": "",
+    "port": 3001,
+    "server": false,
+    "src": "portfolio/highlights/",
+    "name": "highlights",
+    "metadata": false,
+    "version": "1.6.1"
+  },
+  "data": [
+    {
+      "id": "hl-mama-tell-me-a-story",
+      "contents": "",
+      "text": "Purchase my book Mama, Tell Me a Story from these platforms.",
+      "hasWebsite": true,
+      "website": "https://mamatellmeastory.clydedsouza.net",
+      "excerpt": ""
+    },
+    {
+      "id": "hl-newsletter-subscribe",
+      "contents": "",
+      "text": "Subscribe to my newsletter.",
+      "hasWebsite": true,
+      "website": "http://clydedsouza.substack.com/",
+      "excerpt": ""
+    },
+    {
+      "id": "hl-skillshare-class",
+      "contents": "",
+      "text": "Sign up to my class on Skillshare to learn something new today.",
+      "hasWebsite": true,
+      "website": "https://www.skillshare.com/r/user/clydedsouza",
+      "excerpt": ""
+    },
+    {
+      "id": "hl-udemy",
+      "contents": "",
+      "text": "Purchase my classes from Udemy to learn something new today.",
+      "hasWebsite": true,
+      "website": "https://www.udemy.com/user/clydedsouza/",
+      "excerpt": ""
+    }
+  ]
+}
